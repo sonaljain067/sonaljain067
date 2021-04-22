@@ -14,8 +14,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/sonaljain067" target="blank"><img src="https://img.icons8.com/nolan/64/twitter.png" width="40"/></a>
 <a href="https://linkedin.com/in/sonaljain067" target="blank"><img src="https://img.icons8.com/nolan/64/linkedin.png" width="40" /></a>
+<a href="https://twitter.com/sonaljain067" target="blank"><img src="https://img.icons8.com/nolan/64/twitter.png" width="40"/></a>
 <a href="https://instagram.com/sonaljain067" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="40" /></a>
 </p>
 
