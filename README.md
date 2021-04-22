@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **sonaljain067@gmail.com**
 
+- Pronouns: she/her
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -19,8 +21,8 @@
 <a href="https://instagram.com/sonaljain067" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="40" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">  
+<h2 align="center">Languages and Tools:</h2>
+<p align="center">  
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -39,5 +41,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 </p>
 
- 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonaljain067&show_icons=true&locale=en" alt="sonaljain067" />
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonaljain067&show_icons=true&locale=en" alt="sonaljain067" />
+ </p>
