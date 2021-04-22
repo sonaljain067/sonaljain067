@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Sonal Jain</h1>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sonal Jain </h1>
+<img align='right' src='https://user-images.githubusercontent.com/52230497/115749315-9ab62080-a3b4-11eb-99b9-c92d6c6f3f36.png' width='200"'><h
 
 - 🔭 I’m currently working on **my Portfolio**
 
@@ -11,19 +11,16 @@
 
 - 📫 How to reach me **sonaljain067@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sonal-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="sonal-jain" height="30" width="40" /></a>
-<a href="https://dev.to/sonaljain067" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sonaljain067" height="30" width="40" /></a>
-<a href="https://twitter.com/sonaljain067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="sonaljain067" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sonaljain067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sonaljain067" height="30" width="40" /></a>
-<a href="https://fb.com/sonaljain067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="sonaljain067" height="30" width="40" /></a>
-<a href="https://instagram.com/sonaljain067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sonaljain067" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sonaljain067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="sonaljain067" height="30" width="40" /></a>
+<a href="https://twitter.com/sonaljain067" target="blank"><img src="https://img.icons8.com/nolan/64/twitter.png" width="40"/></a>
+<a href="https://linkedin.com/in/sonaljain067" target="blank"><img src="https://img.icons8.com/nolan/64/linkedin.png" width="40" /></a>
+<a href="https://instagram.com/sonaljain067" target="blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sonaljain6431/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="sonaljain6431/profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">  
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -42,3 +39,6 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 </p>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonaljain067&show_icons=true&locale=en" alt="sonaljain067" />
