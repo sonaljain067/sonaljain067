@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sonal Jain </h1>
-<img align='right' src='https://user-images.githubusercontent.com/52230497/115749315-9ab62080-a3b4-11eb-99b9-c92d6c6f3f36.png' width='200"'>
 
 - 🔭 I’m currently working on **my Portfolio**
 
@@ -11,7 +10,8 @@
 
 - 📫 How to reach me **sonaljain067@gmail.com**
 
-- Pronouns: she/her
+- Pronouns: She/Her/Hers
+ 
 
 
 <h3 align="center">Connect with me:</h3>
