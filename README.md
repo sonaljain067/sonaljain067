@@ -30,7 +30,7 @@
 <h2>🏆 GitHub Stats</h2>
 <p align="center">  
  <a href="https://github.com/sonaljain067/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonaljain067&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sonal's github stats" />
+  <img ign="center" src="https://github-readme-stats.vercel.app/api?username=sonaljain067&show_icons=true&cache_seconds=86400&theme=prussian" alt="Sonal's github stats"/>
 </a>
  </p>
 
