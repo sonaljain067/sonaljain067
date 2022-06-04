@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img gif src="hi.gif" width="30px">, I'm Sonal Jain </h1>
+<h1 align="center">Hey, I'm Sonal Jain </h1>
 
 - 🔭 I’m currently working on **Web Development, Open-source and side projects**
 - 🌱 I’m currently learning **DSA, MERN stack**
